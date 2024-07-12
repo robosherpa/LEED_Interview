@@ -3,7 +3,7 @@ Thank you for applying to the lead embedded engineer role at Aerora.
 
 The goal of this interview process is to provide a balanced interview that touches on some technical topics, but in a phased approach to facilitate our technical interview.
 
-1. Fork this repo to a private repo of your own and add us as reviewers
+1. Fork this repo to a private repo of your own and add [GhelAerora](https://github.com/GhelAerora) as a reviewer
 2. Fill out Section 1 and submit a PR to us
 3. If both parties want to continue, we'll schedule the video interview
 4. Fill out Section 2 and submit a PR at least 2 working days before the interview
