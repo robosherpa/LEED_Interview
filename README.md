@@ -1,10 +1,25 @@
 # Introduction
 Thank you for applying to the lead embedded engineer role at Aerora.
 
-The goal of this interview process is to provide a balanced interview that touches on some technical topics, but in a phased approach to facilitate our technical interview.
+If you're in this repo, you should have already completed the initial screening interview and been contacted by the hiring manager to schedule the US technical interview.
 
+The interview process for this role is a follows:
+1. Screening (completed)
+2. US technical interview (current phase)
+3. Global technical interview
+4. Management/leadership interview
+
+Please look at the interview guide, especially section 2, to determine when to schedule your interview so you give yourself time to complete the practical exercise.
+
+For 2.3, we'd like candidates to limit the time they spend on the practical exercise to between 2 to 4 hours. If you find that you need to spend more than that, please reach out. We know job interviewing is busy and want to make the amount of time spend reasonable.
+
+We will be conducting the interview via MS Teams and recording the interview so that our global interview team can review the interview in their timezone and prepare follow on questions for the global interview.
+
+This interview is a work in progress, so if you have any recommendations or feedback, please let us know via LinkedIn.
+
+## Instructions
 1. Fork this repo to a private repo of your own and add [GhelAerora](https://github.com/GhelAerora)
-2. Fill out Section 1 and 2 commit to your repo by 11am the morning of the interview
+2. Fill out Section 1 and 2 and commit to your repo by 11am US Pacific Time the morning of the interview
 
 # Section 1. Background
 *Fill out the table below noting your experience in the area. Then, distribute 1.0 point across the rank column using whole tens. Finally, order the table from highest to lowest.*
